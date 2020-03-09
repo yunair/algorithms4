@@ -1,0 +1,4 @@
+package bloggle;
+
+class BoggleSolver {
+}
